@@ -62,11 +62,11 @@ SnapClass is a [web app / dashboard] built with **Streamlit** that helps [teache
 
 ```
 snapclass-streamlit/
-├── app.py                # Main entry point
-├── requirements.txt      # Python dependencies
-├── somponents/           # Images, GIFs, static files
-├── screens/              # UI for Home, Teacher and Student
-├── pipelines             # For Voice and Face Recognition
+├── app.py              # Main entry point
+├── requirements.txt    # Python dependencies
+├── components/         # Reusable UI components
+├── screens/            # UI for Home, Teacher and Student
+├── pipelines/          # Voice and face recognition
 └── README.md
 ```
 
